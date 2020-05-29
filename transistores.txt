@@ -19,3 +19,9 @@ POTENCIA:
 El tiristor (gr.: puerta) es una familia de componentes electrónicos 
 constituido por elementos semiconductores que utiliza realimentación 
 interna para producir una conmutación.1
+
+Rectificadores de corriente
+En electrónica, un rectificador es el elemento o circuito que permite 
+convertir una señal eléctrica alterna en una continua. Esto se realiza 
+utilizando diodos rectificadores, ya sean semiconductores de estado sólido, 
+válvulas al vacío o válvulas gaseosas como las de vapor de mercurio.
