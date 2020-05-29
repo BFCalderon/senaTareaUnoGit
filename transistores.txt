@@ -1,0 +1,4 @@
+Transistor:
+El transistor es un dispositivo electrónico semiconductor utilizado 
+para entregar una señal de salida en respuesta a una señal de entrada. 
+Cumple funciones de amplificador, oscilador, conmutador o rectificador.
