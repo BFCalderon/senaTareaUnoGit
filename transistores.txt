@@ -2,3 +2,10 @@ Transistor:
 El transistor es un dispositivo electrónico semiconductor utilizado 
 para entregar una señal de salida en respuesta a una señal de entrada. 
 Cumple funciones de amplificador, oscilador, conmutador o rectificador.
+
+TIPOS DE TRANSISTOR:
+
+BJT - > El transistor de unión bipolar (del inglés bipolar junction transistor, 
+o sus siglas BJT) es un dispositivo electrónico de estado sólido consistente 
+en dos uniones PN muy cercanas entre sí, que permite aumentar la corriente y 
+disminuir el voltaje, además de controlar el paso de la corriente a través de sus terminales
