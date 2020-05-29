@@ -13,3 +13,9 @@ disminuir el voltaje, además de controlar el paso de la corriente a través de 
 MOSFET -> El transistor de efecto de campo metal-óxido-semiconductor o MOSFET 
 (en inglés metal-oxide-semiconductor field-effect transistor) es un transistor 
 utilizado para amplificar o conmutar señales electrónicas.
+
+POTENCIA:
+
+El tiristor (gr.: puerta) es una familia de componentes electrónicos 
+constituido por elementos semiconductores que utiliza realimentación 
+interna para producir una conmutación.1
